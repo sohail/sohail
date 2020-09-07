@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm sohail
+please ask me anything about my work at [Sharing Economy Pakistan](https://twitter.com/SharingeconomyP)
+
 
 <!--
 **sohail/sohail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
