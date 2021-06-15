@@ -1,5 +1,7 @@
 ### Hi there 👋 I'm Sohail
+<!--
 Please ask me anything about my work at [Sharing Economy Pakistan](https://twitter.com/SharingeconomyP)
+-->
 
 
 <!--
