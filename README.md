@@ -1,6 +1,8 @@
 ### Hi there 👋 I'm Sohail
 
+<!--
 I'm currently working on this project... [KHAAdotPK](https://github.com/KHAAdotPK)
+-->
 
 <!--
 
