@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Sohail
+### Hi there 👋 I'm Sohail and I work for Ghost Protocol.
 
 <!--
 I'm currently working on this project... [KHAAdotPK](https://github.com/KHAAdotPK)
